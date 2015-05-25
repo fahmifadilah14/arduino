@@ -31,6 +31,5 @@ void loop() {
   {digitalWrite(varled6, HIGH);
   delay(100);
   digitalWrite(varled6, LOW);
-  delay(100);
-}
+  delay(100);}
 }
